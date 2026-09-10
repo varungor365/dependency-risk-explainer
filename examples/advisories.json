@@ -1,0 +1,1 @@
+[{"package":"alpha","severity":"high","summary":"Example only: replace with a verified advisory record.","fixed_version":"2.0.0","source":"https://example.com/advisory"},{"package":"beta","severity":"moderate","summary":"Example only: transitive or development risk still requires review."}]
